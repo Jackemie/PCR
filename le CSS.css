@@ -1,0 +1,10 @@
+h1{
+    margin: auto;
+    position: center;
+    size: 20px;
+    color: black;
+}
+
+body{
+    background-color: rgb(201, 201, 201);
+}
